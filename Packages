@@ -1,0 +1,24 @@
+Package: jigasi
+Version: 1.1-281-g0b19c98-1
+Architecture: all
+Maintainer: Jitsi Team <dev@jitsi.org>
+Installed-Size: 110106
+Depends: debconf (>= 0.5) | debconf-2.0, default-jre-headless (>= 2:1.11), openssl, ruby-hocon
+Filename: ./jigasi_1.1-281-g0b19c98-1_all.deb
+Size: 95779916
+MD5sum: 44202e8de6da0ef2aa2cdec535805a1f
+SHA1: 23e24b096068f2a909bc0580558d04e536f622e1
+SHA256: f3da51b0fc8dea507ef8f6163c18751d64025b5076550d65e3321bed74dc75f3
+Section: net
+Priority: extra
+Homepage: https://jitsi.org
+Description: Jitsi Gateway for SIP
+ Jitsi Meet is a WebRTC JavaScript application that uses Jitsi
+ Videobridge to provide high quality, scalable video conferences.
+ .
+ It is a web interface to Jitsi Videobridge for audio and video
+ forwarding and relaying, configured to work with nginx
+ .
+ This package contains the jigasi (Jitsi Gateway for SIP) daemon,
+ which allows SIP accounts to be invited in Jitsi Meet conferences.
+

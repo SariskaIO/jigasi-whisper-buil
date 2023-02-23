@@ -1,0 +1,1 @@
+deb [signed-by=/etc/apt/trusted.gpg.d/jigasi-whisper-build.gpg] https://sariskaio.github.io/jigasi-whisper-build ./

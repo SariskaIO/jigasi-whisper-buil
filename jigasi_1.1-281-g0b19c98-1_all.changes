@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Thu, 23 Feb 2023 21:40:55 +0000
+Source: jigasi
+Binary: jigasi
+Built-For-Profiles: noudeb
+Architecture: all
+Version: 1.1-281-g0b19c98-1
+Distribution: unstable
+Urgency: medium
+Maintainer: Jitsi Team <dev@jitsi.org>
+Changed-By: root <root@ip-172-31-29-20.ec2.internal>
+Description:
+ jigasi     - Jitsi Gateway for SIP
+Changes:
+ jigasi (1.1-281-g0b19c98-1) unstable; urgency=medium
+ .
+   * Build from git. 0b19c98
+Checksums-Sha1:
+ 37a640df5682f5a01a72e6f758541a2fab24ad28 9782 jigasi_1.1-281-g0b19c98-1_all.buildinfo
+ 1207f60d14577cda5880ba1160f6d9ee20dc9e8a 95468500 jigasi_1.1-281-g0b19c98-1_all.deb
+Checksums-Sha256:
+ dd2b941a16c7615ad31eaff58491a07f0ffee4c6d9b4b3409a5c5a04066f227c 9782 jigasi_1.1-281-g0b19c98-1_all.buildinfo
+ 3c9bee512ddeb08ec6f589086d788d29054014be8dc944f25c172057bbbde93d 95468500 jigasi_1.1-281-g0b19c98-1_all.deb
+Files:
+ 94260cc18beb67e5c308fc1e9a7fd6ad 9782 net extra jigasi_1.1-281-g0b19c98-1_all.buildinfo
+ 1ae33918d3b3a75e7e97ec43106f5291 95468500 net extra jigasi_1.1-281-g0b19c98-1_all.deb
